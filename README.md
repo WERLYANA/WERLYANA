@@ -1,4 +1,4 @@
-Oi, eu sou a Werlyana  👋
+Meu nome é Werlyana  👋
 
 - 🔭 Trabalho com Gestão de Projetos 
 - 💻 📚 Aprendendo programação 🤯
