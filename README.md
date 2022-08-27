@@ -16,7 +16,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="VScode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Debian" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
   <img align="center" alt="Gimp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
