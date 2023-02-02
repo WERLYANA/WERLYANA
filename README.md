@@ -1,7 +1,6 @@
    Meu nome é Werlyana  👋
 
 - 🔭 Project Manager 📚
-- 💻 Aprendendo programação 🤯
 
 <div align="center">
   <a href="https://github.com/WERLYANA">
