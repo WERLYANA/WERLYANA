@@ -1,5 +1,3 @@
-   Meu nome é Werlyana  👋
-
 - 🔭 Project Manager 📚
 
 <div align="center">
